@@ -1,0 +1,16 @@
+---
+info:
+  name: binance
+  account-address: "0x6dc06b49261ceac6420a7132dcc13fb95e33d9e163fb6132187b740886b16691"
+  authority-key: lAMjE3F3U0nl2O/KA4SSZYWdRdUIokG/nEWpeXPktgwnAnMLzOXB9spXlnhOeW+mAq1GOBPlWM9ph6xbSncyt8Y7AUWWS01gVV9BaFHJrvezW0NzaK3tWrkyYAnWtilG
+  protocol-key: ikIVXtP7TOz358zdfME/XHsysE8m+GNaTxy2YW2D1nU=
+  network-key: sexsNe/FW6ItSVlcmdqN/4KbYM0bJPL+2fwSjRjVdgg=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/iota.bbbnnnbbb.net/tcp/8080/http
+  p2p-address: /dns/iota.bbbnnnbbb.net/udp/8084
+  primary-address: /dns/iota.bbbnnnbbb.net/udp/8081
+  description: Exchange the world
+  image-url: "https://raw.githubusercontent.com/Earn-staking/Validator/refs/heads/main/binance-icon.png"
+  project-url: "https://binance.com"
+proof_of_possession: s6tdf8abUP502y3CeHj8HujxKlFD5MXKw1FVgg3kascbey2wbMZrJumyzjWAQbXP
